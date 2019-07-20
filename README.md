@@ -165,7 +165,7 @@ I've written this script in my free time during my studies. If you find it usefu
 
 ## Contribute <a name="contribute"></a>
 
-Contribute by creating new issues, sending pull requests on Github or you can send an email at: omar.elgabry.93@gmail.com
+Contribute by creating new issues, sending pull requests on Github or you can send an email at: asdever0012@gmail.com
 
 ## License <a name="license"></a>
 Built under [MIT](http://www.opensource.org/licenses/mit-license.php) license.
